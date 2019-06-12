@@ -1,0 +1,12 @@
+.Skill {
+    color: #09B1BA;
+    text-align: center;
+    align-items: center;
+    padding: 40px;
+    font-weight: bold;
+    position: relative;
+}
+
+.Skill:hover {
+    cursor: pointer;
+}

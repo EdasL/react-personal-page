@@ -1,0 +1,14 @@
+.SkillBuilder {
+    background-color:white;
+    margin-top: 150px;
+    margin-left: 50px;
+    margin-right: 50px;
+    position: relative;
+}
+
+.Contain {
+    width: 100%;
+    height: 500px;
+    min-width: 400px;
+    align-items: center;
+}
